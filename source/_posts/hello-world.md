@@ -11,3 +11,6 @@ $y=x$
 ```shell
 echo hello
 ```
+	
+
+{% post_link a [title] %}
